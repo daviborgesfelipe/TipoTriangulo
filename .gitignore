@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TipoTriangulo.ConsoleApp/bin/Debug/net6.0
+/.vs
+/TipoTriangulo.ConsoleApp/obj
